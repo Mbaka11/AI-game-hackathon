@@ -1,0 +1,81 @@
+/* Question.css */
+
+.question-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  z-index: 1;
+  height: auto;  
+}
+
+.question {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 20px;
+  align-items: center;
+}
+
+.choices-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 80%;
+  z-index: 1;
+  margin-top: -0vh;
+}
+
+h2 {
+  font-family: 'Gras', sans-serif;
+  font-size: 3.5em;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+  padding: 1rem;
+  color: #ebfe72;
+  text-shadow: #15191c 1px 0 10px;
+  letter-spacing: 5px;
+}
+
+@media (max-width: 600px) {
+  .choices-container {
+    flex-direction: column;
+  }
+  .choices-container {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    width: 100%;
+  }
+}
+
+/* Add this keyframes definition to your existing CSS */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.answer-reveal {
+  animation: fadeIn 1s ease-in-out;
+  position: fixed; /* Position it relative to the viewport */
+  top: 50%; /* Position it at the middle of the screen vertically */
+  left: 50%; /* Position it at the middle of the screen horizontally */
+  transform: translate(-50%, -50%); /* Offset the element by half its width and height to center it */
+  z-index: 1000; /* Ensure it's on top of other elements */
+  width: 50vw; /* Set a max-width if necessary */
+  /* max-width: 600px; Adjust max-width as needed */
+  padding: 20px;
+  color: #ffffff; /* Text color */
+  font-family: 'Gras';
+  letter-spacing: 4px;
+  text-align: center; /* Center the text */
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Box shadow for a subtle depth effect */
+  background-color: #732597; /* Green for correct answers */
+}

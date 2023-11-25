@@ -1,0 +1,21 @@
+.pixelate-image-container {
+  width: 20vw;
+  height: auto; /* Height is set to auto to maintain aspect ratio */
+  max-width: 100%; /* Max-width to ensure it does not overflow the screen size */
+  position: relative; /* Relative positioning for the container */
+  margin-top: -5vh;
+  margin-bottom: 2vh;
+}
+.pixelate-image-container canvas{
+  display: none;
+}
+.pixelate-image {
+  /* position: absolute; Ensures it doesn't affect layout */
+  width: 30vw; /* Full width of the container */
+  height: auto; /* Height is set to auto to maintain aspect ratio */
+  max-width: 100%; /* Max-width to ensure it does not overflow the screen size */
+  position: relative; /* Relative positioning for the container */
+  
+  display: block; /* Remove extra space below the image */
+  background-color: transparent;
+}

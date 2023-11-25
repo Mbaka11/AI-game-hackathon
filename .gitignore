@@ -1,0 +1,38 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+server/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+public/songs/adele.mp3
+public/songs/bon.mp3
+public/songs/doja.mp3
+public/songs/dua.mp3
+public/songs/frozen.mp3
+public/songs/green.mp3
+public/songs/heart.mp3
+public/songs/katy.mp3
+public/songs/micheal.mp3
+public/songs/pitbull.mp3
+public/songs/queen.mp3
+public/songs/selena.mp3
+public/songs/shawn.mp3
+public/songs/taylor.mp3

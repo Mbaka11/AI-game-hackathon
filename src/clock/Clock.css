@@ -1,0 +1,11 @@
+.clock-video {
+  width: 15vw;
+  height: auto; /* Height is set to auto to maintain aspect ratio */
+  max-width: 100%; /* Max-width to ensure it does not overflow the screen size */
+  position: relative; /* Relative positioning for the container */
+  z-index: 1;
+  text-align: center;
+  justify-content: center; 
+  filter: drop-shadow(1px 0 10px #15191c);
+  margin-top: -5vh;
+  }

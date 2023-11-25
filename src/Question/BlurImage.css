@@ -1,0 +1,14 @@
+.blur-in {
+  animation: blur-in ease-in;
+  max-height: 60vh; /* Image will take up 60% of the viewport height */
+  max-width: 90vw; /* Image will take up 90% of the viewport width */
+  object-fit:contain; /* To maintain aspect ratio even within the new size constraints */
+}
+@keyframes blur-in {
+  0% {
+    filter: blur(20px);
+  }
+  100% {
+    filter: blur(0);
+  }
+}

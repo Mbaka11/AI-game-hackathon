@@ -1,0 +1,100 @@
+/* Scoreboard.css */
+.scoreboard {
+    text-align: center;
+    width: 40%;
+    margin: 0 auto;
+    padding: 50px;
+    max-height: 100vh;
+    overflow-y: auto; /* Enable vertical scrolling */
+    position: relative;
+    z-index: 2;
+  }
+  /* Custom scrollbar styles */
+.scoreboard::-webkit-scrollbar {
+  width: 10px; /* Width of the scrollbar */
+}
+.scoreboard::-webkit-scrollbar-track {
+  background: transparent; /* Track background */
+}
+.scoreboard::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.2); /* Thumb color */
+  border-radius: 10px; /* Rounded corners for the thumb */
+}
+.scoreboard::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.3); /* Thumb color on hover */
+}
+  .scoreboard h1 {
+    font-family: 'Gras Avec Effet', sans-serif;
+    letter-spacing: 10px;
+    color: #e24e30;
+    font-size: 3em;
+    margin-bottom: 20px;
+    margin-top: 0px;
+  }
+  .scoreboard ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    counter-reset: item;
+  }
+  .scoreboard li {
+    background-color: #CCC4B8; /* Kahoot-like yellow for list items */
+    color: #000;
+    font-family: 'Gras', sans-serif;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 1.2em;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    display: flex; /* Use flexbox for layout */
+    justify-content: space-between; /* Space between name and score */
+    align-items: center; /* Center items vertically */
+  }
+  /* Add a pseudo-element for the podium places */
+   .scoreboard li::before {
+    content: counter(item) " ";
+    counter-increment: item;
+  } 
+  /* Specific styles for the top 3 */
+  
+  .scoreboard li:nth-child(1) {
+    background-color: #CCC4B8; /* gold */
+    box-shadow: 0 0px 25px #ffd700;
+    margin-bottom: 20px;
+  }
+  .scoreboard li:nth-child(2) {
+    box-shadow: 0 0px 25px #C0C0C0;
+    margin-bottom: 20px;
+  }
+  .scoreboard li:nth-child(3) {
+    box-shadow: 0 0px 25px #cd7f32;
+    margin-bottom: 20px;
+  }
+  .scoreboard li:nth-child(n+4) {
+    margin-bottom: 10px;
+  }
+
+
+  /* Media query for mobile screens */
+@media (max-width: 500px) {
+  .scoreboard {
+      width: 50%; /* Set width to 90% on mobile screens */
+      padding: 20px; /* Adjust padding if needed */
+      overflow-y: auto; /* Enable vertical scrolling */
+  }
+}
+
+.scoreboard-button {
+  padding: 10px 20px; /* Ajustez le padding selon la taille souhaitée */
+  font-size: 1.5rem; /* Ajustez la taille de la police si nécessaire */
+  font-family: 'Gras', sans-serif;
+  letter-spacing: 2px;
+  color: #15191c; /* Couleur du texte */
+  background-color: #e24e30; /* Couleur de fond du bouton */
+  border-radius: 5px; /* Rayon de bordure pour les coins arrondis */
+  cursor: pointer; /* Curseur de pointeur pour indiquer qu'il s'agit d'un bouton cliquable */
+  margin-top: 20px; /* Marge en haut pour le séparer du contenu précédent */
+  transition: background-color 0.3s; /* Transition pour l'effet de survol */
+}
+.scoreboard-button:hover {
+  background-color: #E37F68; /* Couleur de fond du bouton au survol */
+}

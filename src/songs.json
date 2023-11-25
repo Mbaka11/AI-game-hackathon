@@ -1,0 +1,636 @@
+{
+  "mode1": [
+    {
+      "choices": [
+        {
+          "title": "Savage - Megan Thee Stallion",
+          "isAnswer": false
+        },
+        {
+          "title": "Say So - Nicki Minaj",
+          "isAnswer": false
+        },
+        {
+          "title": "Doja Cat - Paint The Town Red",
+          "isAnswer": true
+        },
+        {
+          "title": "Motivation - Normani",
+          "isAnswer": false
+        }
+      ],
+      "path": "doja.mp3"
+    },
+    {
+      "choices": [
+        {
+          "title": "Malibu - Miley Cyrus",
+          "isAnswer": false
+        },
+        {
+          "title": "Taylor Swift - Style",
+          "isAnswer": true
+        },
+        {
+          "title": "Out of My League - Fitz and The Tantrums",
+          "isAnswer": false
+        },
+        {
+          "title": "Treasure - Bruno Mars",
+          "isAnswer": false
+        }
+      ],
+      "path": "taylor.mp3"
+    },
+    {
+      "choices": [
+        {
+          "title": "Queen - Another One Bites the Dust",
+          "isAnswer": true
+        },
+        {
+          "title": "Super Freak - Rick James",
+          "isAnswer": false
+        },
+        {
+          "title": "The Magnificent Seven - The Clash",
+          "isAnswer": false
+        },
+        {
+          "title": "Stayin' Alive - Bee Gees",
+          "isAnswer": false
+        }
+      ],
+      "path": "queen.mp3"
+    },
+    {
+      "choices": [
+        {
+          "title": "Wake Me Up - Avicii",
+          "isAnswer": false
+        },
+        {
+          "title": "Cotton Eye Joe - Rednex",
+          "isAnswer": false
+        },
+        {
+          "title": "The Fighter - Keith Urban ft. Carrie Underwood",
+          "isAnswer": false
+        },
+        {
+          "title": "Pitbull - Timber ft. Kesha",
+          "isAnswer": true
+        }
+      ],
+      "path": "pitbull.mp3"
+    },
+    {
+      "choices": [
+        {
+          "title": "Green Day - When I come Around",
+          "isAnswer": true
+        },
+        {
+          "title": "The Middle - Jimmy Eat World",
+          "isAnswer": false
+        },
+        {
+          "title": "My Own Worst Enemy - Lit",
+          "isAnswer": false
+        },
+        {
+          "title": "All The Small Things - Blink-182",
+          "isAnswer": false
+        }
+      ],
+      "path": "green.mp3"
+    },
+    {
+      "choices": [
+        {
+          "title": "Best Day Of My Life - American Authors",
+          "isAnswer": false
+        },
+        {
+          "title": "Bon Jovi - It's My Life",
+          "isAnswer": true
+        },
+        {
+          "title": "Are You Gonna Be My Girl - Jet",
+          "isAnswer": false
+        },
+        {
+          "title": "Uprising - Muse",
+          "isAnswer": false
+        }
+      ],
+      "path": "bon.mp3"
+    },
+    {
+      "choices": [
+        {
+          "title": "Rebel Yell - Billy Idol",
+          "isAnswer": false
+        },
+        {
+          "title": "Hungry Like the Wolf - Duran Duran",
+          "isAnswer": false
+        },
+        {
+          "title": "Michael Jackson - Beat It",
+          "isAnswer": true
+        },
+        {
+          "title": "Eye of the Tiger - Survivor",
+          "isAnswer": false
+        }
+      ],
+      "path": "micheal.mp3"
+    },
+    {
+      "choices": [
+        {
+          "title": "Black Dog - Led Zeppelin",
+          "isAnswer": false
+        },
+        {
+          "title": "Bad Reputation - Joan Jett",
+          "isAnswer": false
+        },
+        {
+          "title": "Edge of Seventeen - Stevie Nicks",
+          "isAnswer": false
+        },
+        {
+          "title": "Heart - Barracuda",
+          "isAnswer": true
+        }
+      ],
+      "path": "heart.mp3"
+    },
+    {
+      "choices": [
+        {
+          "title": "Frozen - Let it go",
+          "isAnswer": true
+        },
+        {
+          "title": "You Got A Friend In Me",
+          "isAnswer": false
+        },
+        {
+          "title": "How Far I'll Go - Moana",
+          "isAnswer": false
+        },
+        {
+          "title": "A Whole New World - Aladin",
+          "isAnswer": false
+        }
+      ],
+      "path": "frozen.mp3"
+    },
+    {
+      "choices": [
+        {
+          "title": "Essence - Wizkid feat. Tems",
+          "isAnswer": false
+        },
+        {
+          "title": "Rema et Selena Gomez - Calm Down",
+          "isAnswer": true
+        },
+        {
+          "title": "Location - Khalid feat. Burna Boy (Remix)",
+          "isAnswer": false
+        },
+        {
+          "title": "Beautiful People - Ed Sheeran feat. Khalid",
+          "isAnswer": false
+        }
+      ],
+      "path": "selena.mp3"
+    },
+    {
+      "choices": [
+        {
+          "title": "Party in the U.S.A. - Miley Cyrus",
+          "isAnswer": false
+        },
+        {
+          "title": "Raise Your Glass - P!nk",
+          "isAnswer": false
+        },
+        {
+          "title": "Katy Perry - Last Friday Night",
+          "isAnswer": true
+        },
+        {
+          "title": "Call Me Maybe - Carly Rae Jepsen",
+          "isAnswer": false
+        }
+      ],
+      "path": "katy.mp3"
+    },
+    {
+      "choices": [
+        {
+          "title": "Bleeding Love - Leona Lewis",
+          "isAnswer": false
+        },
+        {
+          "title": "Jar of Hearts - Christina Perri",
+          "isAnswer": false
+        },
+        {
+          "title": "Stone Cold - Demi Lovato",
+          "isAnswer": false
+        },
+        {
+          "title": "Adele - Set Fire to the rain",
+          "isAnswer": true
+        }
+      ],
+      "path": "adele.mp3"
+    },
+    {
+      "choices": [
+        {
+          "title": "Shawn Mendes - Treat you Better",
+          "isAnswer": true
+        },
+        {
+          "title": "Just the Way You Are - Bruno Mars",
+          "isAnswer": false
+        },
+        {
+          "title": "One Call Away - Charlie Puth",
+          "isAnswer": false
+        },
+        {
+          "title": "Love Yourself - Justin Bieber",
+          "isAnswer": false
+        }
+      ],
+      "path": "shawn.mp3"
+    },
+    {
+      "choices": [
+        {
+          "title": "Rain On Me - Lady Gaga and Ariana Grande",
+          "isAnswer": false
+        },
+        {
+          "title": "Dua Lipa - Dance the Night",
+          "isAnswer": true
+        },
+        {
+          "title": "Midnight Sky - Miley Cyrus",
+          "isAnswer": false
+        },
+        {
+          "title": "Blinding Lights - The Weeknd",
+          "isAnswer": false
+        }
+      ],
+      "path": "dua.mp3"
+    },
+    {
+      "choices": [
+        {
+          "title": "Le Vent Nous Portera - Noir Désir",
+          "isAnswer": false
+        },
+        {
+          "title": "Dégénération - Mes Aïeux",
+          "isAnswer": false
+        },
+        {
+          "title": "Les Cowboys Fringuant - Les Etoiles Filantes",
+          "isAnswer": true
+        },
+        {
+          "title": "Comme un sage - Zachary Richard",
+          "isAnswer": false
+        }
+      ],
+      "path": "cowboys.mp3"
+    }
+  ],
+  "mode2": [
+    {
+      "choices": [
+        {
+          "title": "David Bowie - Let's Dance",
+          "isAnswer": false
+        },
+        {
+          "title": "The Rolling Stones - Start Me Up",
+          "isAnswer": false
+        },
+        {
+          "title": "Queen - We Will Rock You",
+          "isAnswer": false
+        },
+        {
+          "title": "Queen - Another One Bites the Dust",
+          "isAnswer": true
+        }
+      ],
+      "path": "queen.png"
+    },
+    {
+      "choices": [
+        {
+          "title": "Harry Styles - Adore You",
+          "isAnswer": false
+        },
+        {
+          "title": "Taylor Swift - Style",
+          "isAnswer": true
+        },
+        {
+          "title": "Taylor Swift - Cardigan",
+          "isAnswer": false
+        },
+        {
+          "title": "Taylor Swift - Wildest Dreams",
+          "isAnswer": false
+        }
+      ],
+      "path": "taylor.png"
+    },
+    {
+      "choices": [
+        {
+          "title": "Doja Cat - Paint The Town Red",
+          "isAnswer": true
+        },
+        {
+          "title": "Doja Cat - Boss Bitch",
+          "isAnswer": false
+        },
+        {
+          "title": "Cardi B - Up",
+          "isAnswer": false
+        },
+        {
+          "title": "Megan Thee Stallion - Savage",
+          "isAnswer": false
+        }
+      ],
+      "path": "doja.png"
+    },
+    {
+      "choices": [
+        {
+          "title": "Kesha - Die Young",
+          "isAnswer": false
+        },
+        {
+          "title": "Pitbull - Give Me Everything ft. Ne-Yo, Afrojack, Nayer",
+          "isAnswer": false
+        },
+        {
+          "title": "Pitbull - Timber ft. Kesha",
+          "isAnswer": true
+        },
+        {
+          "title": "Pitbull - Fireball ft. John Ryan",
+          "isAnswer": false
+        }
+      ],
+      "path": "pitbull.png"
+    },
+    {
+      "choices": [
+        {
+          "title": "The Offspring - Self Esteem",
+          "isAnswer": false
+        },
+        {
+          "title": "Green Day - Basket Case",
+          "isAnswer": false
+        },
+        {
+          "title": "Green Day - When I Come Around",
+          "isAnswer": true
+        },
+        {
+          "title": "Blink-182 - All The Small Things",
+          "isAnswer": false
+        }
+      ],
+      "path": "green.png"
+    },
+    {
+      "choices": [
+        {
+          "title": "Bon Jovi - Livin' on a Prayer",
+          "isAnswer": false
+        },
+        {
+          "title": "Bon Jovi - Wanted Dead or Alive",
+          "isAnswer": false
+        },
+        {
+          "title": "Bon Jovi - It's My Life",
+          "isAnswer": true
+        },
+        {
+          "title": "Bon Jovi - Have a Nice Day",
+          "isAnswer": false
+        }
+      ],
+      "path": "bon.png"
+    },
+    {
+      "choices": [
+        {
+          "title": "Survivor - Eye of the Tiger",
+          "isAnswer": false
+        },
+        {
+          "title": "Michael Jackson - Thriller",
+          "isAnswer": false
+        },
+        {
+          "title": "Michael Jackson - Bad",
+          "isAnswer": false
+        },
+        {
+          "title": "Michael Jackson - Beat It",
+          "isAnswer": true
+        }
+      ],
+      "path": "michael.png"
+    },
+    {
+      "choices": [
+        {
+          "title": "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+          "isAnswer": false
+        },
+        {
+          "title": "Heart - Barracuda",
+          "isAnswer": true
+        },
+        {
+          "title": "Pat Benatar - Heartbreaker",
+          "isAnswer": false
+        },
+        {
+          "title": "Stevie Nicks - Edge of Seventeen",
+          "isAnswer": false
+        }
+      ],
+      "path": "heart.png"
+    },
+    {
+      "choices": [
+        {
+          "title": "Kristen Bell - Do You Want to Build a Snowman?",
+          "isAnswer": false
+        },
+        {
+          "title": "Idina Menzel - Let It Go",
+          "isAnswer": true
+        },
+        {
+          "title": "Demi Lovato - Let It Go",
+          "isAnswer": false
+        },
+        {
+          "title": "Auli'i Cravalho - How Far I'll Go",
+          "isAnswer": false
+        }
+      ],
+      "path": "frozen.png"
+    },
+    {
+      "choices": [
+        {
+          "title": "Wizkid - Essence ft. Tems",
+          "isAnswer": false
+        },
+        {
+          "title": "Rema and Selena Gomez - Calm Down",
+          "isAnswer": true
+        },
+        {
+          "title": "Burna Boy - On the Low",
+          "isAnswer": false
+        },
+        {
+          "title": "Davido - If",
+          "isAnswer": false
+        }
+      ],
+      "path": "selena.png"
+    },
+    {
+      "choices": [
+        {
+          "title": "Miley Cyrus - Party in the U.S.A.",
+          "isAnswer": false
+        },
+        {
+          "title": "Kesha - TiK ToK",
+          "isAnswer": false
+        },
+        {
+          "title": "Katy Perry - Last Friday Night",
+          "isAnswer": true
+        },
+        {
+          "title": "P!nk - Get the Party Started",
+          "isAnswer": false
+        }
+      ],
+      "path": "katy.png"
+    },
+    {
+      "choices": [
+        {
+          "title": "Adele - Hello",
+          "isAnswer": false
+        },
+        {
+          "title": "Sia - Chandelier",
+          "isAnswer": false
+        },
+        {
+          "title": "Adele - Set Fire to the Rain",
+          "isAnswer": true
+        },
+        {
+          "title": "Adele - Rolling in the Deep",
+          "isAnswer": false
+        }
+      ],
+      "path": "adele.png"
+    },
+    {
+      "choices": [
+        {
+          "title": "Justin Bieber - Sorry",
+          "isAnswer": false
+        },
+        {
+          "title": "Shawn Mendes - In My Blood",
+          "isAnswer": false
+        },
+        {
+          "title": "Shawn Mendes - Stitches",
+          "isAnswer": false
+        },
+        {
+          "title": "Shawn Mendes - Treat You Better",
+          "isAnswer": true
+        }
+      ],
+      "path": "shawn.png"
+    },
+    {
+      "choices": [
+        {
+          "title": "Dua Lipa - Dance the Night",
+          "isAnswer": true
+        },
+        {
+          "title": "The Weeknd - Blinding Lights",
+          "isAnswer": false
+        },
+        {
+          "title": "Calvin Harris & Rihanna - This Is What You Came For",
+          "isAnswer": false
+        },
+        {
+          "title": "Lady Gaga - Stupid Love",
+          "isAnswer": false
+        }
+      ],
+      "path": "dua.png"
+    },
+    {
+      "choices": [
+        {
+          "title": "Jean Leloup - I Lost My Baby",
+          "isAnswer": false
+        },
+        {
+          "title": "Vincent Vallières - On va s'aimer encore",
+          "isAnswer": false
+        },
+        {
+          "title": "Les Cowboys Fringants - Les étoiles filantes",
+          "isAnswer": true
+        },
+        {
+          "title": "Harmonium - Pour un instant",
+          "isAnswer": false
+        }
+      ],
+      "path": "cowboys.png"
+    }
+  ]
+}
