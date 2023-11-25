@@ -24,6 +24,27 @@ Harmonic Hunch integrates cutting-edge AI models to enhance the gaming experienc
 
  Our use of DALL-E 3 in Illustrated Beats allows for the generation of artistic visuals inspired by song lyrics, title, and mood. Witness the fusion of music and visual creativity like never before.
 
+ ## Getting Started Locally
+
+To experience Harmonic Hunch locally, follow these steps:
+
+1. In the project's root directory, navigate to the client folder and run:
+
+    ```bash
+    npm i
+    npm start
+    ```
+
+2. Next, navigate to the server folder and run:
+
+    ```bash
+    npm i
+    npm run server
+    ```
+
+3. Open your browser and go to [http://localhost:3000](http://localhost:3000) to access Harmonic Hunch.
+
+Please note that these instructions assume you have Node.js and npm installed on your machine.
 
 ## Hackathon Version
 
