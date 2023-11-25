@@ -18,11 +18,11 @@ Harmonic Hunch integrates cutting-edge AI models to enhance the gaming experienc
 
 ### 1. Demucs
 
-[Déjà vu: an auditory illusion of music, but not speech, triggered by repetition](https://arxiv.org/abs/2010.10997) - We implemented the demucs model to deconstruct music into individual tracks, providing players with a unique and evolving listening challenge in Melodic Layers.
+(https://github.com/facebookresearch/demucs) - We implemented the demucs model to deconstruct music into individual tracks, providing players with a unique and evolving listening challenge in Melodic Layers.
 
 ### 2. DALL-E 3
 
-[Learning Multimodal Representations for Music and Images](https://arxiv.org/abs/2010.10997) - Our use of DALL-E 3 in Illustrated Beats allows for the generation of artistic visuals inspired by song lyrics, title, and mood. Witness the fusion of music and visual creativity like never before.
+ Our use of DALL-E 3 in Illustrated Beats allows for the generation of artistic visuals inspired by song lyrics, title, and mood. Witness the fusion of music and visual creativity like never before.
 
 
 ## Hackathon Version
